@@ -3,3 +3,5 @@
 Javascript command line project
 
 #cmd
+
+npx command
